@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name "YJ14015")(type "KiCad")(uri "${KIPRJMOD}/PENGUINOX-symbols/yj14015.kicad_sym")(options "")(descr ""))
+)
